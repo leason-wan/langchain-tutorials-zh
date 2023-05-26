@@ -4,8 +4,8 @@
 
 ### **LangChaind的新手?**
 建议的学习路径:
-1. LangChain 手册第 1 部分: 7 个核心概念 - [Code](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%201%20-%20Fundamentals.ipynb)
-2. LangChain 手册第 2 部分: 9 个案例 - [Code](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook%20Part%202%20-%20Use%20Cases.ipynb)
+1. LangChain 手册第 1 部分: 7 个核心概念 - [Code](https://github.com/leason-wan/langchain-tutorials-zh/blob/main/LangChain%20手册第%201%20部分%20-%20基础.ipynb)
+2. LangChain 手册第 2 部分: 9 个案例 - [Code](https://github.com/leason-wan/langchain-tutorials-zh/blob/main/LangChain%20手册第%202%20部分%20-%20案例.ipynb)
 3. 探索下面的项目并深入了解。
 
 Prompt Engineering:
@@ -21,7 +21,7 @@ Prompt Engineering:
 
 🦈 进阶 = LangChain的高级用法和特殊使用技巧
 
-### **📝 总结** - *更多: [Code](https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/5%20Levels%20Of%20Summarization%20-%20Novice%20To%20Expert.ipynb)*
+### **📝 总结** - *更多: [Code](https://github.com/leason-wan/langchain-tutorials-zh/blob/main/data_generation/5%20Levels%20Of%20Summarization%20-%20Novice%20To%20Expert.ipynb)*
 | 项目    | 联系人 | 难度 | 开源? |  备注 | 
 | - | ----------- | ---------- | :-: | ---------- |
 | [SummarizePaper.com](https://www.summarizepaper.com/)      | Quentin Kral       | 🐒 中级 | ✅ [Code](https://github.com/summarizepaper/summarizepaper) | 总结 arXiv 论文 | 
@@ -39,7 +39,7 @@ Prompt Engineering:
 | 项目      | 联系人 | 难度 | 开源? |  备注 | 
 | ----------- | ----------- | ---------- | :-: | ---------- |
 | [Kor](https://eyurtsev.github.io/kor/)      | [Eugene Yurtsev](https://twitter.com/veryboldbagel)       | 🐒 中级 | ✅ [Code](https://github.com/eyurtsev/kor) | 这是一个半成品原型，它通过使用大型语言模型来“帮助”你从文本中提取结构化数据(LLMs) 🧩 | 
-| [OpeningAttributes](https://twitter.com/GregKamradt/status/1643027796850253824)      | [@gregkamradt](https://twitter.com/GregKamradt)       | 🐇 新手 | ✅ [Code](https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/Expert%20Structured%20Output%20(Using%20Kor).ipynb) | 从岗位描述提取技能和工具要求 | 
+| [OpeningAttributes](https://twitter.com/Greleason-wan/status/1643027796850253824)      | [@greleason-wan](https://twitter.com/Greleason-wan)       | 🐇 新手 | ✅ [Code](https://github.com/leason-wan/langchain-tutorials-zh/blob/main/data_generation/Expert%20Structured%20Output%20(Using%20Kor).ipynb) | 从岗位描述提取技能和工具要求 | 
 
 <br>
 
@@ -95,6 +95,6 @@ Prompt Engineering:
 
 提交 PR 务必备注说明。
 
-这个仓库由 [DataIndependent](https://dataindependent.com/) 提供，[Greg Kamradt](https://twitter.com/GregKamradt)负责运营。
+这个仓库由 [DataIndependent](https://dataindependent.com/) 提供，[Greg Kamradt](https://twitter.com/Greleason-wan)负责运营。
 
 感谢原仓库，中文版@[礼行-leason](https://github.com/leason-wan)
